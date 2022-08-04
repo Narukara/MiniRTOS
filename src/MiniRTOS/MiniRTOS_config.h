@@ -1,0 +1,7 @@
+#ifndef MINIRTOS_CONFIG_H
+#define MINIRTOS_CONFIG_H
+
+#define IDLE_TASK_STACK_SIZE (32)
+#define TASK_PRIVILEGED
+
+#endif
